@@ -1,0 +1,17 @@
+### IntelliJ IDEA ###
+.gradle
+build/
+/.idea
+*.iws
+*.iml
+*.ipr
+out/
+**/generated/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### spring config
+**/application-real.yaml
+
+### python config
+**/config.ini
